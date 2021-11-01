@@ -3175,4 +3175,5 @@ Disguy
 - [Mohamed shibin](https://github.com/shibil102)
 - [Andrea Porrazzo](https://github.com/andreaPorrazzo)
 - [Debobroto Talukder](https://github.com/debobrototalukder)
+- [Juliana Alves](https://github.com/julianafalvess)
 <!-- prettier-ignore-end -->
